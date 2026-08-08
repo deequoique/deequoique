@@ -124,19 +124,6 @@ A **realtime multiplayer desktop companion** supporting remote interaction, voic
 
 </div>
 
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=deequoique&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deequoique&layout=compact&hide_border=true&langs_count=6" />
-
-</div>
-
----
 
 ## 🌱 What I'm Working Toward
 
