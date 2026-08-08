@@ -160,8 +160,4 @@ I'm currently building projects around these areas and learning how to move AI a
 
 ### Let's build something interesting.
 
-<a href="https://github.com/deequoique">
-  <img src="https://img.shields.io/badge/GitHub-deequoique-181717?style=for-the-badge&logo=github" />
-</a>
-
 </div>
