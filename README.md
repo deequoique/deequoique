@@ -20,7 +20,7 @@
 
 I'm currently pursuing **MCAAI at Nanyang Technological University (NTU)**, with a Computer Science background from **HITSZ**.
 
-I started with **Java backend engineering** and distributed systems, with some experience in **Web3**.  
+I started with **Java backend engineering** and distributed systems, with some experience in **Blockchain**.  
 Now I'm exploring how to build reliable **AI agents and the infrastructure behind them**.
 
 ```text
